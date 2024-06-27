@@ -1,5 +1,7 @@
 # menu-by-shape-detection
-the customer chooses the menu for the meal they want to order  by selecting the objects on their table in four different colours and three different shapes of each color.
+This project was done by a group of 5 including me.
+
+The customer chooses the menu for the meal they want to order  by selecting the objects on their table in four different colours and three different shapes of each color.
 Things to watch out for;
 * The customer cannot choose more than one object of the same color when choosing their food, if happened, the program warning message prints;
 "only one of the same color object you can select"
